@@ -1,7 +1,7 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MasterHead]([https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif](https://www.keycdn.com/img/support/full-stack-development.png))]([https://github.com/](https://github.com/Mr-Shivam-Gupta/))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MasterHead](https://www.keycdn.com/img/support/full-stack-development.png)](https://github.com/Mr-Shivam-Gupta/)
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-<img aling="right" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shivam-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shivam-gupta" /> </p>
 
