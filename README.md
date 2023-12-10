@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shivam-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shivam-gupta" /> </p>
 
-- 🌱 I’m currently learning **MEAN stack**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Web Development & Maintenance, SEO Sorcery**
 
