@@ -26,6 +26,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-gupta&" alt="mr-shivam-gupta" /></p>
 
+<div class="single-technology-item">
+						<div class="technology-icon">
+							<img src="assets/img/technology/android.svg" alt="svg icon">
+						</div>
+						<h3>Android</h3>
+					</div>
 
 <style>.single-technology-item {
     display: flex;
