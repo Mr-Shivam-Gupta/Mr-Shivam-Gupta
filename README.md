@@ -25,3 +25,30 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-shivam-gupta&show_icons=true&locale=en" alt="mr-shivam-gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-gupta&" alt="mr-shivam-gupta" /></p>
+
+
+<style>.single-technology-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px 10px 20px 10px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .07);
+    -webkit-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .07);
+    -moz-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .07);
+    margin-bottom: 30px;
+} 
+  .single-technology-item .technology-icon {
+    display: inline-block;
+    width: 70px;
+    margin-right: 10px;
+}
+  .single-technology-item h3 {
+    color: #505050;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+}
+  </style>
