@@ -1,29 +1,147 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MasterHead](https://www.keycdn.com/img/support/full-stack-development.png)](https://github.com/Mr-Shivam-Gupta/)
-<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Shivam+Gupta;Full+Stack+Web+Developer;Passionate+about+clean+code;Always+learning+new+tech" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shivam-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shivam-gupta" /> </p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-shivam-gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-- 🌱 I’m currently learning **React**
+---
 
-- 💬 Ask me about **Web Development & Maintenance, SEO Sorcery**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-shivam-gupta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&icon_color=00D4AA" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-gupta&theme=radical&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=00D4AA&dates=FFFFFF" alt="GitHub Streak" />
+</div>
 
-- 📫 How to reach me **shivam.gupta.43620@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-shivam-gupta&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
-- ⚡ Fun fact **I like to think I'm funny, but my code never laughs at my jokes. 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="Coding" width="400" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-shivam-gupta&show_icons=true&locale=en&layout=compact" alt="mr-shivam-gupta" /></p>
+- 🔭 I'm currently working on **Full-Stack Web Applications**
+- 🌱 I'm currently learning **React.js & Advanced JavaScript**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, SEO, & Database Management**
+- 📫 Reach me at: **shivam.gupta.43620@gmail.com**
+- ⚡ Fun fact: **I like to think I'm funny, but my code never laughs at my jokes 😄**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-shivam-gupta&show_icons=true&locale=en" alt="mr-shivam-gupta" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-gupta&" alt="mr-shivam-gupta" /></p>
+## 🛠️ Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend Development
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-shivam-gupta&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-shivam-gupta&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-shivam-gupta&theme=radical" alt="Repos Per Language" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-shivam-gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-shivam-gupta&theme=radical&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:shivam.gupta.43620@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## 📝 Recent Projects
+
+<div align="center">
+  <a href="https://github.com/mr-shivam-gupta/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-shivam-gupta&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Project 1" />
+  </a>
+  <a href="https://github.com/mr-shivam-gupta/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mr-shivam-gupta&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Project 2" />
+  </a>
+</div>
+
+---
+
+## 🎯 Goals for 2024
+
+- [ ] Master React.js and build 5+ projects
+- [ ] Learn Node.js and Express.js
+- [ ] Contribute to 10+ open source projects
+- [ ] Build a portfolio website
+- [ ] Learn Docker and deployment
+- [ ] Get AWS certification
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-shivam-gupta&label=Profile%20views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/mr-shivam-gupta/mr-shivam-gupta/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting my profile! 👋</h3>
+  <p>Feel free to reach out if you'd like to collaborate on any projects!</p>
+</div>
 
 
