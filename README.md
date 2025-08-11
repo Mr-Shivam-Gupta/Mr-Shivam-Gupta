@@ -1,42 +1,31 @@
-# 👋 Hi there, I'm Shivam Gupta  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MasterHead](https://www.keycdn.com/img/support/full-stack-development.png)](https://github.com/Mr-Shivam-Gupta/)
+<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+<h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F0A8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Clean+Code+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-shivam-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mr-shivam-gupta" /> </p>
 
----
+- 🌱 I’m currently learning **React**
 
-## 🚀 About Me  
+- 💬 Ask me about **Web Development & Maintenance, SEO Sorcery**
 
-- 🔭 Working on **Full-Stack Web Applications**  
-- 🌱 Learning **React.js, Node.js & Advanced JavaScript**  
-- 💬 Ask me about **Web Development, SEO, & Database Management**  
-- 📫 Email: **shivam.gupta.43620@gmail.com**  
-- ⚡ Fun Fact: *I tell my code jokes… but it just throws exceptions* 😄  
+- 📫 How to reach me **shivam.gupta.43620@gmail.com**
 
----
+- ⚡ Fun fact **I like to think I'm funny, but my code never laughs at my jokes. 😄**
 
-## 🛠 Tech Stack  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-shivam-gupta&show_icons=true&locale=en&layout=compact" alt="mr-shivam-gupta" /></p>
 
-## 📊 GitHub Stats  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-shivam-gupta&show_icons=true&locale=en" alt="mr-shivam-gupta" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-shivam-gupta&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="https://streak-stats.demolab.com?user=mr-shivam-gupta&theme=tokyonight&hide_border=true" height="165px"/>
-</div>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-gupta&" alt="mr-shivam-gupta" /></p>
+
 
 ---
 
@@ -48,27 +37,4 @@
 
 ---
 
-## 🎯 Goals for 2025  
 
-- [ ] Master **React.js** and build 5+ projects  
-- [ ] Learn **Node.js & Express.js**  
-- [ ] Contribute to 10+ open-source projects  
-- [ ] Build a **personal portfolio website**  
-- [ ] Learn **Docker & deployment**  
-- [ ] Achieve **AWS Certification**  
-
----
-
-## 🤝 Connect With Me  
-
-<p align="center">
-  <a href="mailto:shivam.gupta.43620@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-</p>  
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-shivam-gupta&label=Profile%20Views&color=00F0A8&style=flat-square" alt="Profile Views" />
-</div>
