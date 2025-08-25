@@ -34,7 +34,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mr-shivam-gupta&show_icons=true&locale=en" alt="mr-shivam-gupta" /></p>
 
 <p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-shivam-gupta&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-gupta&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
